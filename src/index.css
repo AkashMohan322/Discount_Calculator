@@ -1,13 +1,7 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Alegreya+Sans+SC:ital@1&family=Alumni+Sans+Inline+One&family=Anton&family=Bacasime+Antique&family=Bree+Serif&family=Bruno+Ace+SC&family=Bungee+Inline&family=Capriola&family=Catamaran&family=Cinzel+Decorative&family=Courgette&family=Dongle:wght@700&family=Fredericka+the+Great&family=Graduate&family=Kaushan+Script&family=Lobster&family=Merriweather+Sans:ital,wght@0,300;1,300&family=Merriweather:wght@900&family=Nanum+Myeongjo&family=Overpass:wght@200&family=PT+Sans+Narrow&family=REM:wght@500&family=Rajdhani:wght@600&family=Righteous&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@300&family=Roboto+Slab:wght@300;400&family=Roboto:ital,wght@0,100;0,400;0,500;1,400&family=Rye&family=Sacramento&family=Tektur:wght@400;500&family=Ubuntu:wght@400;500&family=Yatra+One&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: Rem;
 }
